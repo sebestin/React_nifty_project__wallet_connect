@@ -1,0 +1,71 @@
+.footer-text{
+    color: white;
+    font-size: 27px;
+    font-weight: 500;
+    margin-right: 20px;
+    margin-left: 10px;
+    position: relative;
+}
+@media (max-width: 756px) {
+   .footer-text{
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight: 500;
+    margin-left: 5px;
+    margin-top: 2px;
+  }
+   }
+   .twitterimg{
+    width:50px ;
+    padding-right: 10px;
+    margin-left: 6px;
+ 
+}
+@media (max-width: 756px) {
+    .twitterimg{
+        width:38px ;
+        padding-right: 5px;
+        margin-left: 3px;
+     
+   }
+    }
+
+ .discordimg{
+        width: 50px;
+        padding-right: 10px;
+ }
+  @media (max-width: 756px) {
+        .discordimg{
+            width:38px ;
+            padding-right: 5px;
+            margin-left: 3px;
+         
+      }
+ }
+   .instaimg{
+    width: 50px;
+    padding-right: 10px;
+   }
+   @media (max-width: 756px) {
+    .instaimg{
+        width:38px ;
+        padding-right: 5px;
+        margin-left: 3px;
+     
+  }
+}
+ .tiktokimg{
+    width: 43px;
+    padding-right: 10px;
+    padding-top: 4.5px;
+ }
+ 
+ @media (max-width: 756px) {
+    .tiktokimg{
+        width:32px ;
+        padding-right: 5px;
+        margin-left: 3px;
+        padding-top: 2.5px;
+     
+  }
+}

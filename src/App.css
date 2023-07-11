@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #FCFFA5;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+p, span, div {
+    font-family: 'Source Code Pro', monospace;
+    margin: 0;
+}
+
+@media (max-width: 768px){
+    h1, h2, h3, h4, h5, h6 {
+        font-size: 6vw;
+        margin: 0;
+    }
+
+    p, span, div {
+        margin: 0;
+    }
+}

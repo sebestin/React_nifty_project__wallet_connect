@@ -1,0 +1,285 @@
+/* 
+    .btn{
+        background: #00d486;
+        width: 68px;
+        height: 68px;
+        color: white;
+        padding: 0.6vw;
+  
+        border-radius: 50%;
+        margin: 10 auto;
+        font-size: 1.2vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    
+} */
+.GreenBtnWrap{
+    position: relative;
+    margin-bottom: 75px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    top: 86%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    padding: 10px;                                                                                                      
+}
+.btn-discord{
+    background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    margin: 0px 30px;
+    border-radius: 50%;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.imgdiscord{
+width: 40px;
+height: 28px;
+}
+
+@media (max-width: 756px) {
+    .btn-discord{
+      
+        width: 58px!important;
+        height: 53px;
+      /* margin-left: 40px; */
+      margin: 0px 10px;
+        padding: 5px;
+    
+        
+  }
+  .imgdiscord{                                                          
+    width: 33px;
+    height: 26px;
+    }
+}
+/* 
+@media (min-width: 425px) and  (max-width: 756px){
+    .btn-discord{
+      
+        width: 75px;
+        height: 53px;
+      margin-left: 40px;
+        padding: 5px;
+    
+        
+  }
+  .imgdiscord{
+    width: 33px;
+    height: 26px;
+    }
+} */
+
+
+
+
+
+.btn-twitter{
+    background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    margin: 0px 30px;
+    border-radius: 50%;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.imgtwitter{
+    width: 30px;
+    height: 35px;
+    }
+
+    
+@media (max-width: 756px) {
+    .btn-twitter{
+      
+        width: 58px!important;
+        height: 53px;
+      /* margin-left: 20px;
+       */
+       margin: 0px 10px;
+        padding: 5px;
+
+        
+  }
+  .imgtwitter{
+    width: 30px;
+    height: 30px;
+    padding: 0.2vw;
+    }
+}
+
+
+    .btn-instagram{
+        background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    margin: 0px 30px;
+    border-radius: 50%;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    }
+    .imginsta{
+        width: 38px;
+    height: 39px; 
+    }
+
+
+
+       
+@media (max-width: 756px) {
+    .btn-instagram{
+      
+        width: 58px!important;
+        height: 53px;
+ /* margin-left: 40px; */
+ margin: 0px 10px;
+        padding: 5px;
+
+        
+  }
+  .imginsta{
+    width: 33px!important;
+    height: 33px;
+    }
+}
+
+    .btn-tiktok{
+        background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    margin: 0px 30px;
+    border-radius: 50%;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    }
+    .imgtiktok{
+        width: 35px;
+    height: 37px; 
+    }
+
+
+           
+@media (max-width: 756px) {
+    .btn-tiktok{
+      
+        width: 58px!important;
+        height: 53px;
+ /* margin-left: 40px; */
+ margin: 0px 10px;
+        padding: 3px;
+
+        
+  }
+  .imgtiktok{
+    width: 24px;
+    height: 28px;
+  
+    }
+}
+   
+    .btn-opensea{
+        background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    margin: 0px 30px;
+    border-radius: 50%;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    }
+    .imgopensea{
+        width: 50px;
+    height: 35px;       
+    }
+
+           
+    @media (max-width: 756px) {
+        .btn-opensea{
+            width: 58px!important;
+            height: 53px;
+     /* margin-left: 40px; */
+     margin: 0px 10px;
+            padding: 5px;
+    
+                
+      }
+      .imgopensea{
+        height: 27px !important;
+        width: 34px!important;
+        }
+    }
+
+   
+   
+    .btn-mintable{
+        background: #00d486;
+    width: 68px;
+    height: 68px;
+    color: white;
+    padding: 0.6vw;
+    border-radius: 50%;
+    margin: 0px 30px;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    }
+    .imgmintable{
+        width: 30px;
+    height: 24px; 
+    }
+   
+        
+    @media (max-width: 756px) {
+        .btn-mintable{
+          
+            width: 58px!important;
+            height: 52px;
+     /* margin-left: 40px; */
+     margin: 0px 10px;
+     /* margin-right: 30px; */
+            padding: 5px;
+    
+            
+      }
+      .imgmintable{
+        width: 30px;
+        height: 39px;
+        }
+    }
+
+
+
+
+
+
+
+
